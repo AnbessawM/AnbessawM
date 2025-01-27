@@ -39,15 +39,11 @@ Integrating **AI** models like **BioGPT** to help healthcare providers diagnose 
 I'm always excited to connect with others in the fields of technology and healthcare. Whether it's for collaboration, sharing ideas, or just a casual chat, feel free to reach out through the platforms below. Let's build something awesome together!
 
 ### 🌐 Connect With Me:
-![Twitter][1.1] ![Facebook][2.1] ![LinkedIn][3.1] ![GitHub][4.1]
 
----
-
-### 📱 Social Media Links:
-- **Twitter**: [@SamMDevOps](http://www.twitter.com/SamMDevOps)
-- **Facebook**: [SamMDevOps](http://www.facebook.com/SamMDevOps)
-- **LinkedIn**: [SamMDevOps](https://linkedin.com/in/SamMDevOps)
-- **GitHub**: [AnbessawM](http://www.github.com/AnbessawM)
+- **Twitter**: [@SamMDevOps](http://www.twitter.com/SamMDevOps) ![Twitter](http://i.imgur.com/tXSoThF.png)
+- **Facebook**: [SamMDevOps](http://www.facebook.com/SamMDevOps) ![Facebook](http://i.imgur.com/P3YfQoD.png)
+- **LinkedIn**: [SamMDevOps](https://linkedin.com/in/SamMDevOps) ![LinkedIn](http://i.imgur.com/qkjWAKP.png)
+- **GitHub**: [AnbessawM](http://www.github.com/AnbessawM) ![GitHub](http://i.imgur.com/0o48UoR.png)
 
 ---
 
@@ -64,6 +60,7 @@ I'm always excited to connect with others in the fields of technology and health
 [2.2]: http://i.imgur.com/fep1WsG.png
 [3.2]: http://i.imgur.com/8gFhY3u.png
 [4.2]: http://i.imgur.com/9I6NRUm.png
+
 
 
 
