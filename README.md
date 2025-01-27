@@ -40,10 +40,10 @@ I'm always excited to connect with others in the fields of technology and health
 
 ### 🌐 Connect With Me:
 
-- **Twitter**: [@SamMDevOps](http://www.twitter.com/SamMDevOps) ![Twitter](http://i.imgur.com/tXSoThF.png)
-- **Facebook**: [SamMDevOps](http://www.facebook.com/SamMDevOps) ![Facebook](http://i.imgur.com/P3YfQoD.png)
-- **LinkedIn**: [SamMDevOps](https://linkedin.com/in/SamMDevOps) ![LinkedIn](http://i.imgur.com/qkjWAKP.png)
-- **GitHub**: [AnbessawM](http://www.github.com/AnbessawM) ![GitHub](http://i.imgur.com/0o48UoR.png)
+- **Twitter**: ![Twitter](http://i.imgur.com/tXSoThF.png)
+- **Facebook**: ![Facebook](http://i.imgur.com/P3YfQoD.png)
+- **LinkedIn**: ![LinkedIn](http://i.imgur.com/qkjWAKP.png)
+- **GitHub**: ![GitHub](http://i.imgur.com/0o48UoR.png)
 
 ---
 
@@ -60,6 +60,11 @@ I'm always excited to connect with others in the fields of technology and health
 [2.2]: http://i.imgur.com/fep1WsG.png
 [3.2]: http://i.imgur.com/8gFhY3u.png
 [4.2]: http://i.imgur.com/9I6NRUm.png
+
+[1]: http://www.twitter.com/SamMDevOps
+[2]: http://www.facebook.com/SamMDevOps
+[2]: https://linkedin.com/in/SamMDevOps
+[4]: http://www.github.com/AnbessawM
 
 
 
