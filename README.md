@@ -39,10 +39,10 @@ Integrating **AI** models like **BioGPT** to help healthcare providers diagnose 
 Let’s connect! Whether you're interested in collaboration, healthcare technology, or just want to chat, feel free to reach out via the links below:
 
 **Samuel Mengistu**  
-[![Facebook](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/SamMDevOps)  
-[![LinkedIn](http://i.imgur.com/tXSoThF.png)](https://linkedin.com/in/SamMDevOps)  
-[![X](http://i.imgur.com/yCsTjba.png)](https://x.com/SamMDevOps)  
-[![Website](http://i.imgur.com/YckIOms.png)](https://hibirsystems.tech/)
+![Facebook](http://i.imgur.com/P3YfQoD.png)
+![LinkedIn](http://i.imgur.com/tXSoThF.png)
+![X](http://i.imgur.com/yCsTjba.png) 
+![Website](http://i.imgur.com/YckIOms.png)
 
 ## 📜 License
 
