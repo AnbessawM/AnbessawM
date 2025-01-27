@@ -21,21 +21,15 @@ I'm a passionate **Medical Student** and **Software Developer** from Ethiopia. I
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnbessawM&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnbessawM&layout=compact&theme=radical)
 
 ## 🔧 Projects
 
 Here are some of the projects I've worked on:
 
-### MedFlow
+### Hibir Medicos
 A mobile app for healthcare professionals with features like medical calculators, growth charts, and clinical decision support tools.
-
-### WHO Growth Charts
-A project to display interactive WHO growth charts for pediatric assessments, including weight-for-age, head circumference, and more.
-
-### Maintenance Fluid Calculator
-A flexible mobile tool that calculates maintenance fluid requirements based on patient weight and other parameters.
 
 ### Clinical Decision Support
 Working on integrating **AI** models like **BioGPT** to assist healthcare professionals in diagnosing diseases based on input symptoms.
@@ -50,7 +44,10 @@ Working on integrating **AI** models like **BioGPT** to assist healthcare profes
 Feel free to reach out if you’re interested in collaborating, discussing healthcare technology, or just want to connect!
 
 - 📧 Email: [anbessm16@gmail.com](mailto:anbessm16@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/samuel](https://www.linkedin.com/in/samuel) (example link)
+- 💼 LinkedIn: [linkedin.com/in/SamMDevOps](https://linkedin.com/in/SamMDevOps)
+- 🌐 Website: [hibirsystems.tech](https://hibirsystems.tech/)
+- 📱 Facebook: [facebook.com/SamMDevOps](https://facebook.com/SamMDevOps)
+- 🐦 X: [x.com/SamMDevOps](https://x.com/SamMDevOps)
 
 ## 📜 License
 
