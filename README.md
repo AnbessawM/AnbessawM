@@ -34,31 +34,36 @@ A mobile app designed for healthcare professionals, offering medical calculators
 ### Clinical Decision Support
 Integrating **AI** models like **BioGPT** to help healthcare providers diagnose diseases more accurately based on symptoms and medical input.
 
-## 💬 Reach Out to Me
+## 💬 Let's Connect!
 
-Let's connect! Whether you're interested in collaboration, healthcare technology, or just want to chat, feel free to reach out via the links below:
+I'm always excited to connect with others in the fields of technology and healthcare. Whether it's for collaboration, sharing ideas, or just a casual chat, feel free to reach out through the platforms below. Let's build something awesome together!
 
-<div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
-  <a href="http://www.twitter.com/SamMDevOps" target="_blank">
-    <img src="http://i.imgur.com/tXSoThF.png" alt="Twitter" style="width: 40px; height: 40px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
-  </a>
-  <a href="http://www.facebook.com/SamMDevOps" target="_blank">
-    <img src="http://i.imgur.com/P3YfQoD.png" alt="Facebook" style="width: 40px; height: 40px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
-  </a>
-  <a href="https://linkedin.com/in/SamMDevOps" target="_blank">
-    <img src="http://i.imgur.com/qkjWAKP.png" alt="LinkedIn" style="width: 40px; height: 40px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
-  </a>
-  <a href="http://www.github.com/AnbessawM" target="_blank">
-    <img src="http://i.imgur.com/0o48UoR.png" alt="GitHub" style="width: 40px; height: 40px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
-  </a>
-</div>
+### 🌐 Connect With Me:
+[![Twitter][1.1]][1] [![Facebook][2.1]][2] [![LinkedIn][3.1]][3] [![GitHub][4.1]][4]
 
-<!-- Smooth hover effect -->
-<style>
-  img:hover {
-    transform: scale(1.1);
-  }
-</style>
+---
+
+### 📱 Social Media Links:
+- **Twitter**: [@SamMDevOps](http://www.twitter.com/SamMDevOps)
+- **Facebook**: [SamMDevOps](http://www.facebook.com/SamMDevOps)
+- **LinkedIn**: [SamMDevOps](https://linkedin.com/in/SamMDevOps)
+- **GitHub**: [AnbessawM](http://www.github.com/AnbessawM)
+
+---
+
+<!-- Links to social media icons -->
+<!-- No need to change these -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png
+[2.1]: http://i.imgur.com/P3YfQoD.png
+[3.1]: http://i.imgur.com/qkjWAKP.png
+[4.1]: http://i.imgur.com/0o48UoR.png
+
+<!-- icons without padding -->
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: http://i.imgur.com/fep1WsG.png
+[3.2]: http://i.imgur.com/8gFhY3u.png
+[4.2]: http://i.imgur.com/9I6NRUm.png
 
 
 
