@@ -36,52 +36,31 @@ Integrating **AI** models like **BioGPT** to help healthcare providers diagnose 
 
 ## 💬 Reach Out to Me
 
-Let’s connect! Whether you're interested in collaboration, healthcare technology, or just want to chat, feel free to reach out via the links below:
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+Let's connect! Whether you're interested in collaboration, healthcare technology, or just want to chat, feel free to reach out via the links below:
 
-<!-- display the social media buttons in your README -->
+<div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
+  <a href="http://www.twitter.com/SamMDevOps" target="_blank">
+    <img src="http://i.imgur.com/tXSoThF.png" alt="Twitter" style="width: 40px; height: 40px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
+  </a>
+  <a href="http://www.facebook.com/SamMDevOps" target="_blank">
+    <img src="http://i.imgur.com/P3YfQoD.png" alt="Facebook" style="width: 40px; height: 40px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
+  </a>
+  <a href="https://linkedin.com/in/SamMDevOps" target="_blank">
+    <img src="http://i.imgur.com/qkjWAKP.png" alt="LinkedIn" style="width: 40px; height: 40px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
+  </a>
+  <a href="http://www.github.com/AnbessawM" target="_blank">
+    <img src="http://i.imgur.com/0o48UoR.png" alt="GitHub" style="width: 40px; height: 40px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
+  </a>
+</div>
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
-[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+<!-- Smooth hover effect -->
+<style>
+  img:hover {
+    transform: scale(1.1);
+  }
+</style>
 
 
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 ## 📜 License
 
