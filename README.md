@@ -40,10 +40,12 @@ I'm always excited to connect with others in the fields of technology and health
 
 ### 🌐 Connect With Me:
 
-- **Twitter**: ![Twitter](http://i.imgur.com/tXSoThF.png)
-- **Facebook**: ![Facebook](http://i.imgur.com/P3YfQoD.png)
-- **LinkedIn**: ![LinkedIn](http://i.imgur.com/qkjWAKP.png)
-- **GitHub**: ![GitHub](http://i.imgur.com/0o48UoR.png)
+[![X][1.1]][1]
+[![Facebook][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 
 ---
 
