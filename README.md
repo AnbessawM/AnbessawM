@@ -42,10 +42,8 @@ I'm always excited to connect with others in the fields of technology and health
 
 [![X][1.1]][1]
 [![Facebook][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+[![LinkedIn][3.1]][3]
+[![Github][4.1]][4]
 
 ---
 
