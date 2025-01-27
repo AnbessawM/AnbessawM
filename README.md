@@ -6,7 +6,7 @@ I'm a passionate **Medical Student** and **Software Developer** from Ethiopia. I
 - 🔬 Medical student at **University of Gondar, Ethiopia**.
 - 💻 Software developer with expertise in **React Native**, **Django**, **Python**, and **Mobile App Development**.
 - 💡 Passionate about using **AI** and **Technology** to enhance healthcare systems.
-- 📚 Currently learning more about **AI in Medicine** and **Mobile Health Apps**.
+- 📚 Currently learning more about **AI in Medicine**.
 
 ## 🔥 Languages & Tools
 
@@ -34,20 +34,14 @@ A mobile app for healthcare professionals with features like medical calculators
 ### Clinical Decision Support
 Working on integrating **AI** models like **BioGPT** to assist healthcare professionals in diagnosing diseases based on input symptoms.
 
-## 🌱 Currently Learning
-- **AI in Medicine**: Implementing BioGPT and other AI tools to assist in clinical decision-making.
-- **Mobile Health Apps**: Improving mobile apps for better usability and accessibility in healthcare settings.
-- **Cloud Platforms**: Deepening my knowledge of **AWS** and **Azure** for cloud-based solutions in healthcare.
-
 ## 💬 Reach Out to Me
 
 Feel free to reach out if you’re interested in collaborating, discussing healthcare technology, or just want to connect!
 
-- 📧 Email: [anbessm16@gmail.com](mailto:anbessm16@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/SamMDevOps](https://linkedin.com/in/SamMDevOps)
-- 🌐 Website: [hibirsystems.tech](https://hibirsystems.tech/)
-- 📱 Facebook: [facebook.com/SamMDevOps](https://facebook.com/SamMDevOps)
-- 🐦 X: [x.com/SamMDevOps](https://x.com/SamMDevOps)
+[![Facebook](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/SamMDevOps)
+[![LinkedIn](http://i.imgur.com/jDRp47c.png)](https://linkedin.com/in/SamMDevOps)
+[![X](http://i.imgur.com/wWzX9uB.png)](https://x.com/SamMDevOps)
+[![Website](http://i.imgur.com/Vvy3Kru.png)](https://hibirsystems.tech/)
 
 ## 📜 License
 
