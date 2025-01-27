@@ -40,20 +40,30 @@ I'm always excited to connect with others in the fields of technology and health
 
 ### 🌐 Connect With Me:
 
-<a href="http://www.twitter.com/SamMDevOps">
-  <i class="fab fa-twitter" style="font-size: 30px;"></i>
-</a>
-<a href="http://www.facebook.com/SamMDevOps">
-  <i class="fab fa-facebook" style="font-size: 30px;"></i>
-</a>
-<a href="https://linkedin.com/in/SamMDevOps">
-  <i class="fab fa-linkedin" style="font-size: 30px;"></i>
-</a>
-<a href="http://www.github.com/AnbessawM">
-  <i class="fab fa-github" style="font-size: 30px;"></i>
-</a>
+[![X][1.1]][1]
+[![Facebook][2.1]][2]
+[![LinkedIn][3.1]][3]
+[![Github][4.1]][4]
 
 ---
+
+<!-- Links to social media icons -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png
+[2.1]: http://i.imgur.com/P3YfQoD.png
+[3.1]: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/linkedin.svg
+[4.1]: http://i.imgur.com/0o48UoR.png
+
+<!-- icons without padding -->
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: http://i.imgur.com/fep1WsG.png
+[3.2]: http://i.imgur.com/Fy3Y8kA.png
+[4.2]: http://i.imgur.com/9I6NRUm.png
+
+[1]: http://www.twitter.com/SamMDevOps
+[2]: http://www.facebook.com/SamMDevOps
+[3]: https://linkedin.com/in/SamMDevOps
+[4]: http://www.github.com/AnbessawM
 
 ## 📜 License
 
