@@ -51,7 +51,7 @@ I'm always excited to connect with others in the fields of technology and health
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [2.1]: http://i.imgur.com/P3YfQoD.png
-[3.1]: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/linkedin.svg
+[3.1]: http://i.imgur.com/P3YfQoD.png
 [4.1]: http://i.imgur.com/0o48UoR.png
 
 <!-- icons without padding -->
