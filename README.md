@@ -41,16 +41,16 @@ I'm always excited to connect with others in the fields of technology and health
 ### 🌐 Connect With Me:
 
 <a href="http://www.twitter.com/SamMDevOps">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/twitter.svg" alt="Twitter" width="30" height="30" />
+  <i class="fab fa-twitter" style="font-size: 30px;"></i>
 </a>
 <a href="http://www.facebook.com/SamMDevOps">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/facebook.svg" alt="Facebook" width="30" height="30" />
+  <i class="fab fa-facebook" style="font-size: 30px;"></i>
 </a>
 <a href="https://linkedin.com/in/SamMDevOps">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+  <i class="fab fa-linkedin" style="font-size: 30px;"></i>
 </a>
 <a href="http://www.github.com/AnbessawM">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/github.svg" alt="GitHub" width="30" height="30" />
+  <i class="fab fa-github" style="font-size: 30px;"></i>
 </a>
 
 ---
