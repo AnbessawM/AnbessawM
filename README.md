@@ -1,12 +1,12 @@
 # Hi there, I'm Samuel 👋
 
-I'm a passionate **Medical Student** and **Software Developer** from Ethiopia. I combine my knowledge in healthcare with programming skills to build tools that improve medical care and clinical decision-making.
+I’m a passionate **Medical Student** and **Software Developer** from Ethiopia. I combine my healthcare knowledge with programming expertise to create innovative tools that enhance medical care and support clinical decision-making.
 
 ## 🚀 About Me
-- 🔬 Medical student at **University of Gondar, Ethiopia**.
-- 💻 Software developer with expertise in **React Native**, **Django**, **Python**, and **Mobile App Development**.
-- 💡 Passionate about using **AI** and **Technology** to enhance healthcare systems.
-- 📚 Currently learning more about **AI in Medicine**.
+- 🔬 **Medical Student** at **University of Gondar, Ethiopia**.
+- 💻 **Software Developer** specializing in **React Native**, **Django**, **Python**, and **Mobile App Development**.
+- 💡 Enthusiast of **AI** and **Technology**, focused on using them to revolutionize healthcare systems.
+- 📚 Currently expanding my expertise in **AI in Medicine** to bridge the gap between tech and healthcare.
 
 ## 🔥 Languages & Tools
 
@@ -26,23 +26,24 @@ I'm a passionate **Medical Student** and **Software Developer** from Ethiopia. I
 
 ## 🔧 Projects
 
-Here are some of the projects I've worked on:
+Here are some of the projects I’m currently working on:
 
 ### Hibir Medicos
-A mobile app for healthcare professionals with features like medical calculators, growth charts, and clinical decision support tools.
+A mobile app designed for healthcare professionals, offering medical calculators, growth charts, and clinical decision support tools to improve daily clinical workflows.
 
 ### Clinical Decision Support
-Working on integrating **AI** models like **BioGPT** to assist healthcare professionals in diagnosing diseases based on input symptoms.
+Integrating **AI** models like **BioGPT** to help healthcare providers diagnose diseases more accurately based on symptoms and medical input.
 
 ## 💬 Reach Out to Me
 
-Feel free to reach out if you’re interested in collaborating, discussing healthcare technology, or just want to connect!
+Let’s connect! Whether you're interested in collaboration, healthcare technology, or just want to chat, feel free to reach out via the links below:
 
-[![Facebook](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/SamMDevOps)
-[![LinkedIn](http://i.imgur.com/jDRp47c.png)](https://linkedin.com/in/SamMDevOps)
-[![X](http://i.imgur.com/wWzX9uB.png)](https://x.com/SamMDevOps)
-[![Website](http://i.imgur.com/Vvy3Kru.png)](https://hibirsystems.tech/)
+**Samuel Mengistu**  
+[![Facebook][2.1]](https://facebook.com/SamMDevOps)  
+[![LinkedIn][1.1]](https://linkedin.com/in/SamMDevOps)  
+[![X][3.1]](https://x.com/SamMDevOps)  
+[![Website][4.1]](https://hibirsystems.tech/)
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
