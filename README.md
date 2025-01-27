@@ -39,7 +39,7 @@ Integrating **AI** models like **BioGPT** to help healthcare providers diagnose 
 I'm always excited to connect with others in the fields of technology and healthcare. Whether it's for collaboration, sharing ideas, or just a casual chat, feel free to reach out through the platforms below. Let's build something awesome together!
 
 ### 🌐 Connect With Me:
-[![Twitter][1.1]][1] [![Facebook][2.1]][2] [![LinkedIn][3.1]][3] [![GitHub][4.1]][4]
+![Twitter][1.1][1] ![Facebook][2.1][2] ![LinkedIn][3.1][3] ![GitHub][4.1][4]
 
 ---
 
